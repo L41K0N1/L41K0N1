@@ -9,6 +9,7 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=fff)](#) <br>
 🤝 Collaboration: [![Jira](https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=fff)](#)
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=plastic&logo=zoom&logoColor=white)](#)
+---
 
 ## 📊 LeetCode stats 📊
 ![Leetcode Stats](https://leetcard.jacoblin.cool/l41k0n1?theme=dark)
