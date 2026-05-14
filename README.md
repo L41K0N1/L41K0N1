@@ -12,4 +12,5 @@
 
 ## 📊 LeetCode stats 📊
 ![Leetcode Stats](https://leetcard.jacoblin.cool/l41k0n1?theme=dark)
-
+## 📊 CodeWars stats 📊
+![Codewars Stats](https://www.codewars.com/users/l41k0n1/badges/large)
